@@ -1,0 +1,15 @@
+.header {
+    font-size:45px;
+    font-weight:bold;
+    text-align:center;
+    text-decoration: underline black;
+}
+
+li {
+    font-size: 25px;
+    font-family:sans-serif, 'Times New Roman', Times, serif
+}
+
+body {
+    background-color: goldenrod;
+}
